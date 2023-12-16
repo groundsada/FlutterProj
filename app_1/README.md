@@ -27,11 +27,11 @@ The widget tree includes instances of essential Flutter widgets such as `AppBar`
 I utilized the provided Flutter project structure as a foundation, making modifications primarily in the `lib/main.dart` file. Images were added to the `assets/images` directory to enhance visual elements.
 
 ### User Data Model
-The user information is structured using a dedicated data model class, ensuring separation of concerns and providing a scalable solution for future updates. The data model includes fields for personal details, education records, and project information.
+The user information is structured using a dedicated data model class, ensuring separation of concerns and providing a scalable solution for future updates. The data model includes fields for personal details, educastion records, and project information.
 
 ### Widget Structure
 The widget tree is carefully crafted to include the specified widget types. Custom widget classes, such as `UserInfoPage` for the overall page layout and separate widgets for each section, contribute to code organization and maintainability.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
