@@ -1,4 +1,4 @@
-# MP5: Final Project - Braintastic
+# App 5: Braintastic
 
 ## Overview
 
