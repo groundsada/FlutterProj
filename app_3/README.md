@@ -1,7 +1,5 @@
 # Flashcards App
 
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=12417039&assignment_repo_type=AssignmentRepo)
-
 ## Overview
 
 Welcome to the Flashcards App! As the developer behind this project, I've designed a multi-page application that empowers users to create, edit, and manage decks of two-sided flashcards. The app also supports running quizzes using cards drawn from a selected deck. The application uses Flutter and incorporates techniques related to navigation, responsive design, state management, and persistence.
